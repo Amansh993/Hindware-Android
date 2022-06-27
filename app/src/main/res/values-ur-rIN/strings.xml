@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Qwikcilver</string>
+    <string name="connection_timeout_err">"کنکشن کا وقت ختم .. اپنے نیٹ ورک کی جانچ کریں "</string>
+    <string name="no_network_err">ڈیٹا نیٹ ورک سے رابطہ قائم کرنے سے قاصر</string>
+    <string name="unknown_host_error">میزبان سے رابطہ قائم کرنے سے قاصر</string>
+    <string name="str_confirm">تصدیق کریں</string>
+    <string name="str_logout_prompt">کیا آپ لاگ آؤٹ کرنا چاہتے ہیں؟</string>
+    <string name="str_yes">جی ہاں</string>
+    <string name="str_no">نہیں</string>
+    <string name="str_back_press">باہر نکلنے کے لئے BACK کو دوبارہ دبائیں</string>
+
+    <string name="username_text">صارف نام</string>
+    <string name="password_text">پاس ورڈ</string>
+    <string name="login_text">لاگ ان کریں</string>
+
+    <string name="alert_username">उपयोगकर्ता नाम दर्ज करें!</string>
+    <string name="alert_password">پاس ورڈ درج کریں!</string>
+
+    <string name="mobile_text">لاگ ان شناخت درج کریں</string>
+    <string name="otp_text">OTP درج کریں</string>
+    <string name="submit_text">جمع کرائیں</string>
+    <string name="get_otp">OTP حاصل کریں</string>
+    <string name="send_otp">OTP بھیجیں</string>
+    <string name="verify_otp">OTP کی تصدیق کریں</string>
+    <string name="resend_otp">دوبارہ او ٹی پی بھیجیں</string>
+    <string name="resend_otp_in">Reesnd OTP in</string>
+    <string name="seconds">Seconds</string>
+    <string name="welcome_text">ہیلو</string>
+    <string name="points_text">پوائنٹس:</string>
+    <string name="enter_qr_code_text">کیو آر کوڈ درج کریں</string>
+    <string name="enter_qr_code_alert">!کیو آر کوڈ درج کریں</string>
+    <string name="allow_cam_permission">براہ کرم کیو آر سکینر استعمال کرنے کے لئے کیمرہ اجازت دیں</string>
+    <string name="allow_cam_permission_setting">کیمرے کی اجازت کی اجازت دیں</string>
+    <string name="scan_details_text">تفصیلات اسکین کریں</string>
+    <string name="description_text">تفصیل</string>
+    <string name="prod_name_text">پروڈکٹ کا نام</string>
+    <string name="points">پوائنٹس</string>
+    <string name="claim_text">دعوی</string>
+    <string name="genuinity_check_text">جنوینٹی چیک</string>
+    <string name="cliam_upi_text">دعوی یو پی آئی</string>
+    <string name="genuinity_check_controller">GenuinityCheck</string>
+    <string name="claim_upi_controller">ClaimUPI</string>
+    <string name="logout_controller">LogOut</string>
+    <string name="claim_sucess_text">کامیابی</string>
+
+    <string name="alert_mobile">لاگ ان شناخت درج کریں!</string>
+    <string name="alert_valid_mobile">غلط موبائل نمبر !</string>
+    <string name="alert_otp">OTP درج کریں!</string>
+    <string name="controller_mismatch_error">Controller name mismatched</string>
+    <string name="profile_image_change">پروفائل کی تصویر کامیابی کے ساتھ بدلی گئی</string>
+</resources>

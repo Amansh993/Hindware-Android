@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Qwikcilver</string>
+    <string name="connection_timeout_err">"కనెక్షన్ సమయం ముగిసింది .. మీ నెట్‌వర్క్‌ను తనిఖీ చేయండి"</string>
+    <string name="no_network_err">డేటా నెట్‌వర్క్‌ను కనెక్ట్ చేయడం సాధ్యం కాలేదు</string>
+    <string name="unknown_host_error">హోస్ట్‌ను కనెక్ట్ చేయడం సాధ్యం కాలేదు</string>
+
+    <string name="str_confirm">నిర్ధారించండి</string>
+    <string name="str_yes">అవును</string>
+    <string name="str_no">లేదు</string>
+    <string name="str_back_press">నిష్క్రమించడానికి మళ్ళీ తిరిగి నొక్కండి</string>
+    <string name="str_logout_prompt">మీరు లాగ్ అవుట్ చేయాలనుకుంటున్నారా?</string>
+
+    <string name="username_text">వినియోగదారు పేరు</string>
+    <string name="password_text">పాస్వర్డ్</string>
+    <string name="login_text">ప్రవేశించండి</string>
+
+    <string name="mobile_text">లాగిన్ ఐడిని నమోదు చేయండి</string>
+    <string name="otp_text">OTP ని నమోదు చేయండి</string>
+    <string name="send_otp">OTP పంపండి</string>
+    <string name="get_otp">OTP పొందండి</string>
+    <string name="submit_text">సమర్పించండి</string>
+    <string name="resend_otp">OTP ను మళ్ళీ పంపు</string>
+    <string name="verify_otp">OTP ని ధృవీకరించండి</string>
+    <string name="resend_otp_in">OTP ని తిరిగి పంపండి</string>
+    <string name="seconds">సెకన్లు</string>
+    <string name="welcome_text">హాయ్,</string>
+    <string name="points_text">పాయింట్లు:</string>
+    <string name="enter_qr_code_text">QR కోడ్‌ను నమోదు చేయండి</string>
+    <string name="enter_qr_code_alert">QR కోడ్‌ను నమోదు చేయండి!</string>
+    <string name="allow_cam_permission">దయచేసి QR స్కానర్‌ను ఉపయోగించడానికి కెమెరా అనుమతి ఇవ్వండి</string>
+    <string name="allow_cam_permission_setting">కెమెరా అనుమతి అనుమతించండి</string>
+    <string name="scan_details_text">వివరాలను స్కాన్ చేయండి</string>
+    <string name="description_text">వివరణ</string>
+    <string name="prod_name_text">వస్తువు పేరు</string>
+    <string name="points">పాయింట్లు</string>
+    <string name="claim_text">దావా</string>
+    <string name="genuinity_check_text">యథార్థత తనిఖీ</string>
+    <string name="cliam_upi_text">యుపిఐని క్లెయిమ్ చేయండి</string>
+    <string name="genuinity_check_controller">GenuinityCheck</string>
+    <string name="claim_upi_controller">ClaimUPI</string>
+    <string name="logout_controller">LogOut</string>
+    <string name="claim_sucess_text">విజయం</string>
+
+    <string name="alert_username">వినియోగదారు పేరును నమోదు చేయండి!</string>
+    <string name="alert_password">రహస్య సంకేతం తెలపండి!</string>
+
+    <string name="alert_mobile">లాగిన్ ఐడిని నమోదు చేయండి!</string>
+    <string name="alert_valid_mobile">చెల్లని మొబైల్ సంఖ్య!</string>
+    <string name="alert_otp">OTP నమోదు చేయండి!</string>
+    <string name="controller_mismatch_error">Controller name mismatched</string>
+    <string name="profile_image_change">ప్రొఫైల్ చిత్రం విజయవంతంగా మార్చబడింది</string>
+</resources>

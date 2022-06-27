@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Qwikcilver</string>
+    <string name="connection_timeout_err">இணைப்பு நேரம் முடிந்தது .. உங்கள் பிணையத்தை சரிபார்க்கவும்</string>
+    <string name="no_network_err">தரவு நெட்வொர்க்கை இணைக்க முடியவில்லை</string>
+    <string name="unknown_host_error">ஹோஸ்டை இணைக்க முடியவில்லை</string>
+    <string name="str_confirm">உறுதிப்படுத்தவும்</string>
+    <string name="str_logout_prompt">நீங்கள் வெளியேற விரும்புகிறீர்களா?</string>
+    <string name="str_yes">ஆம்</string>
+    <string name="str_no">இல்லை</string>
+    <string name="str_back_press">வெளியேற மீண்டும் மீண்டும் அழுத்தவும்</string>
+
+    <string name="username_text">பயனர்பெயர்</string>
+    <string name="password_text">கடவுச்சொல்</string>
+    <string name="login_text">உள்நுழைய</string>
+
+    <string name="alert_username">பயனர்பெயரை உள்ளிடவும்!</string>
+    <string name="alert_password">கடவுச்சொல்லை உள்ளிடவும்!</string>
+
+    <string name="mobile_text">உள்நுழைவு ஐடியை உள்ளிடவும்</string>
+    <string name="otp_text">OTP ஐ உள்ளிடவும்</string>
+    <string name="submit_text">சமர்ப்பிக்கவும்</string>
+    <string name="get_otp">OTP ஐப் பெறுக</string>
+    <string name="send_otp">OTP ஐ அனுப்பவும்</string>
+    <string name="verify_otp">OTP ஐ சரிபார்க்கவும்</string>
+    <string name="resend_otp">OTP ஐ மீண்டும் அனுப்பு</string>
+    <string name="resend_otp_in">Reesnd OTP in</string>
+    <string name="seconds">Seconds</string>
+    <string name="welcome_text">வணக்கம்,</string>
+    <string name="points_text">புள்ளிகள்:</string>
+    <string name="enter_qr_code_text">QR குறியீட்டை உள்ளிடவும்</string>
+    <string name="enter_qr_code_alert">QR குறியீட்டை உள்ளிடவும்!</string>
+    <string name="allow_cam_permission">QR ஸ்கேனரைப் பயன்படுத்த கேமரா அனுமதி வழங்கவும்</string>
+    <string name="allow_cam_permission_setting">கேமரா அனுமதியை அனுமதிக்கவும்</string>
+    <string name="scan_details_text">விவரங்களை ஸ்கேன் செய்யுங்கள்</string>
+    <string name="description_text">விளக்கம்</string>
+    <string name="prod_name_text">பொருளின் பெயர்</string>
+    <string name="points">புள்ளிகள்</string>
+    <string name="claim_text">உரிமைகோரல்</string>
+    <string name="genuinity_check_text">உண்மையான சோதனை</string>
+    <string name="cliam_upi_text">UPI ஐக் கோருங்கள்</string>
+    <string name="genuinity_check_controller">GenuinityCheck</string>
+    <string name="claim_upi_controller">ClaimUPI</string>
+    <string name="logout_controller">LogOut</string>
+    <string name="claim_sucess_text">வெற்றி</string>
+
+    <string name="alert_mobile">உள்நுழைவு ஐடியை உள்ளிடவும்!</string>
+    <string name="alert_valid_mobile">தவறான மொபைல் எண் !</string>
+    <string name="alert_otp">OTP ஐ உள்ளிடவும்!</string>
+    <string name="controller_mismatch_error">Controller name mismatched</string>
+    <string name="profile_image_change">சுயவிவரப் படம் வெற்றிகரமாக மாற்றப்பட்டது</string>
+</resources>

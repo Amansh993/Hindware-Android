@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Qwikcilver</string>
+    <string name="connection_timeout_err">ಸಂಪರ್ಕ ಸಮಯ ಮೀರಿದೆ .. ನಿಮ್ಮ ನೆಟ್‌ವರ್ಕ್ ಪರಿಶೀಲಿಸಿ</string>
+    <string name="no_network_err">ಡೇಟಾ ನೆಟ್‌ವರ್ಕ್ ಅನ್ನು ಸಂಪರ್ಕಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ</string>
+    <string name="unknown_host_error">ಹೋಸ್ಟ್ ಅನ್ನು ಸಂಪರ್ಕಿಸಲು ಸಾಧ್ಯವಿಲ್ಲ</string>
+
+    <string name="str_confirm">ಖಚಿತಪಡಿಸಿ</string>
+    <string name="str_logout_prompt">ನೀವು ಲಾಗ್ .ಟ್ ಮಾಡಲು ಬಯಸುವಿರಾ</string>
+    <string name="str_yes">ಹೌದು</string>
+    <string name="str_no">ಇಲ್ಲ</string>
+    <string name="str_back_press">ನಿರ್ಗಮಿಸಲು ಮತ್ತೆ ಹಿಂತಿರುಗಿ ಒತ್ತಿರಿ</string>
+
+    <string name="username_text">ಬಳಕೆದಾರ ಹೆಸರು</string>
+    <string name="password_text">ಗುಪ್ತಪದ</string>
+    <string name="login_text">ಲಾಗಿನ್</string>
+
+    <string name="alert_username">ಬಳಕೆದಾರ ಹೆಸರನ್ನು ನಮೂದಿಸಿ!</string>
+    <string name="alert_password">ಪಾಸ್ವರ್ಡ್ ನಮೂದಿಸಿ!</string>
+
+    <string name="mobile_text">ಲಾಗಿನ್ ಐಡಿ ನಮೂದಿಸಿ</string>
+    <string name="otp_text">ಒಟಿಪಿ ನಮೂದಿಸಿ</string>
+    <string name="submit_text">ಸಲ್ಲಿಸು</string>
+    <string name="get_otp">ಒಟಿಪಿ ಪಡೆಯಿರಿ</string>
+    <string name="send_otp">ಒಟಿಪಿ ಕಳುಹಿಸಿ</string>
+    <string name="verify_otp">ಒಟಿಪಿ ಪರಿಶೀಲಿಸಿ</string>
+    <string name="resend_otp">ಮತ್ತೆ ಒಟಿಪಿ ಕಳುಹಿಸಿ</string>
+    <string name="resend_otp_in">Reesnd OTP in</string>
+    <string name="seconds">Seconds</string>
+    <string name="welcome_text">ನಮಸ್ತೆ,</string>
+    <string name="points_text">ಅಂಕಗಳು:</string>
+    <string name="enter_qr_code_text">QR ಕೋಡ್ ನಮೂದಿಸಿ</string>
+    <string name="enter_qr_code_alert">QR ಕೋಡ್ ನಮೂದಿಸಿ!</string>
+    <string name="allow_cam_permission">QR ಸ್ಕ್ಯಾನರ್ ಬಳಸಲು ದಯವಿಟ್ಟು ಕ್ಯಾಮೆರಾ ಅನುಮತಿಯನ್ನು ನೀಡಿ</string>
+    <string name="allow_cam_permission_setting">ಕ್ಯಾಮೆರಾ ಅನುಮತಿಯನ್ನು ಅನುಮತಿಸಿ</string>
+    <string name="scan_details_text">ವಿವರಗಳನ್ನು ಸ್ಕ್ಯಾನ್ ಮಾಡಿ</string>
+    <string name="description_text">ವಿವರಣೆ</string>
+    <string name="prod_name_text">ಉತ್ಪನ್ನದ ಹೆಸರು</string>
+    <string name="points">ಅಂಕಗಳು</string>
+    <string name="claim_text">ಹಕ್ಕು</string>
+    <string name="genuinity_check_text">ಪ್ರಾಮಾಣಿಕತೆ ಪರಿಶೀಲನೆ</string>
+    <string name="cliam_upi_text">Claim UPI</string>
+    <string name="genuinity_check_controller">GenuinityCheck</string>
+    <string name="claim_upi_controller">ClaimUPI</string>
+    <string name="logout_controller">LogOut</string>
+    <string name="claim_sucess_text">ಯಶಸ್ಸು</string>
+
+    <string name="alert_mobile">ಲಾಗಿನ್ ಐಡಿ ನಮೂದಿಸಿ!</string>
+    <string name="alert_valid_mobile">ಅಮಾನ್ಯ ಮೊಬೈಲ್ ಸಂಖ್ಯೆ !</string>
+    <string name="alert_otp">ಒಟಿಪಿ ನಮೂದಿಸಿ!</string>
+    <string name="controller_mismatch_error">Controller name mismatched</string>
+    <string name="profile_image_change">ಪ್ರೊಫೈಲ್ ಚಿತ್ರವನ್ನು ಯಶಸ್ವಿಯಾಗಿ ಬದಲಾಯಿಸಲಾಗಿದೆ</string>
+</resources>

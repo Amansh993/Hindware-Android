@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Qwikcilver</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <string name="connection_timeout_err">Connection timeout.. check your network</string>
+    <string name="no_network_err">Unable to connect data network</string>
+    <string name="unknown_host_error">Unable to connect host</string>
+
+    <string name="str_confirm">Confirm</string>
+    <string name="str_yes">Yes</string>
+    <string name="str_no">No</string>
+    <string name="str_back_press">press BACK again to exit</string>
+    <string name="str_logout_prompt">Do you want to logout?</string>
+
+    <string name="username_text">Username</string>
+    <string name="password_text">Password</string>
+    <string name="login_text">Login</string>
+
+    <string name="mobile_text">Enter Login Id</string>
+    <string name="otp_text">Enter OTP</string>
+    <string name="send_otp">Send OTP</string>
+    <string name="get_otp">Get OTP</string>
+    <string name="submit_text">SUBMIT</string>
+    <string name="resend_otp">Resend OTP</string>
+    <string name="verify_otp">Verify OTP</string>
+    <string name="resend_otp_in">Reesnd OTP in</string>
+    <string name="seconds">Seconds</string>
+    <string name="welcome_text">Hi,</string>
+    <string name="points_text">Points:</string>
+    <string name="enter_qr_code_text">Enter QR Code</string>
+    <string name="enter_qr_code_alert">Enter QR Code!</string>
+    <string name="allow_cam_permission">Please grant camera permission to use the QR Scanner</string>
+    <string name="allow_cam_permission_setting">Allow camera permission</string>
+    <string name="scan_details_text">Scan Details</string>
+    <string name="description_text">QR Code</string>
+    <string name="prod_name_text">QR SKU</string>
+    <string name="points">Points</string>
+    <string name="claim_text">Claim</string>
+    <string name="genuinity_check_text">Genuinity Check</string>
+    <string name="cliam_upi_text">Claim UPI</string>
+    <string name="genuinity_check_controller">GenuinityCheck</string>
+    <string name="claim_upi_controller">ClaimUPI</string>
+    <string name="logout_controller">LogOut</string>
+    <string name="claim_sucess_text">Success</string>
+
+    <string name="alert_username">Enter username!</string>
+    <string name="alert_password">Enter password!</string>
+
+    <string name="alert_mobile">Enter Login Id!</string>
+    <string name="alert_valid_mobile">Invalid Mobile Number!</string>
+    <string name="alert_otp">Enter OTP!</string>
+    <string name="controller_mismatch_error">Controller name mismatched</string>
+    <string name="profile_image_change">Profile image changed successfully</string>
+</resources>

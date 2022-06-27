@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Qwikcilver</string>
+    <string name="connection_timeout_err">કનેક્શન સમયસમાપ્તિ .. તમારું નેટવર્ક તપાસો</string>
+    <string name="no_network_err">ડેટા નેટવર્કને કનેક્ટ કરવામાં અસમર્થ</string>
+    <string name="unknown_host_error">હોસ્ટને કનેક્ટ કરવામાં અસમર્થ</string>
+    <string name="str_confirm">પુષ્ટિ કરો</string>
+    <string name="str_logout_prompt">શું તમે લ logગઆઉટ કરવા માંગો છો?</string>
+    <string name="str_yes">હા</string>
+    <string name="str_no">ના</string>
+    <string name="str_back_press">બહાર નીકળવા માટે ફરીથી પાછા દબાવો</string>
+
+    <string name="username_text">વપરાશકર્તા નામ</string>
+    <string name="password_text">પાસવર્ડ</string>
+    <string name="login_text">પ્રવેશ કરો</string>
+
+    <string name="alert_username">વપરાશકર્તા નામ દાખલ કરો!</string>
+    <string name="alert_password">પાસવર્ડ દાખલ કરો!</string>
+
+    <string name="mobile_text">લिनગિન આઈડી દાખલ કરો</string>
+    <string name="otp_text">ઓટીપી દાખલ કરો</string>
+    <string name="submit_text">સબમિટ કરો</string>
+    <string name="get_otp">OTP મેળવો</string>
+    <string name="send_otp">ઓટીપી મોકલો</string>
+    <string name="resend_otp">ફરીથી ઓટીપી મોકલો</string>
+    <string name="verify_otp">ઓટીપી ચકાસો</string>
+    <string name="resend_otp_in">માં ઓ.ટી.પી. રીસેન્ડ કરો</string>
+    <string name="seconds">સેકન્ડ્સ</string>
+    <string name="welcome_text">હાય,</string>
+    <string name="points_text">પોઇન્ટ્સ:</string>
+    <string name="enter_qr_code_text">ક્યૂઆર કોડ દાખલ કરો</string>
+    <string name="enter_qr_code_alert">QR ಕೋಡ್ ನಮೂದಿಸಿ!</string>
+    <string name="allow_cam_permission">કૃપા કરીને ક્યૂઆર સ્કેનરનો ઉપયોગ કરવા માટે ક camera મેરાની મંજૂરી આપો</string>
+    <string name="allow_cam_permission_setting">ક camera મેરાની મંજૂરી આપો</string>
+    <string name="scan_details_text">વિગતો સ્કેન કરો</string>
+    <string name="description_text">વર્ણન</string>
+    <string name="prod_name_text">ઉત્પાદન નામ</string>
+    <string name="points">પોઇન્ટ્સ</string>
+    <string name="claim_text">દાવો કરો</string>
+    <string name="genuinity_check_text">જીન્યુનિટી ચેક</string>
+    <string name="cliam_upi_text">યુપીઆઈનો દાવો કરો</string>
+    <string name="genuinity_check_controller">GenuinityCheck</string>
+    <string name="claim_upi_controller">ClaimUPI</string>
+    <string name="logout_controller">LogOut</string>
+    <string name="claim_sucess_text">સફળતા</string>
+
+    <string name="alert_mobile">લिनગિન આઈડી દાખલ કરો!</string>
+    <string name="alert_valid_mobile">અમાન્ય મોબાઇલ નંબર !</string>
+    <string name="alert_otp">ઓટીપી દાખલ કરો!</string>
+    <string name="controller_mismatch_error">Controller name mismatched</string>
+    <string name="profile_image_change">પ્રોફાઇલ છબી સફળતાપૂર્વક બદલાઈ ગઈ</string>
+</resources>
